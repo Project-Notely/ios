@@ -1,10 +1,3 @@
-//
-//  NotelyIOSApp.swift
-//  NotelyIOS
-//
-//  Created by Isolumi on 2024-12-28.
-//
-
 import SwiftUI
 
 @main
